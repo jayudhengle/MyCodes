@@ -23,7 +23,7 @@ public class NewTest
 	  wb = Workbook.getWorkbook(input);
 	  sh = wb.getSheet("User_Details");
 	  
-	  for (int i =0; i<2; i++)
+	  for (int i =0; i<3; i++)
 	  {
 		  for (int j =0; j<3; j++)
 		  {
